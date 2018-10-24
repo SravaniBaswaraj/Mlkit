@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "6582660902",
+    "firebase_url": "https://mltkt-c3bbe.firebaseio.com",
+    "project_id": "mltkt-c3bbe",
+    "storage_bucket": "mltkt-c3bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6582660902:android:348da6f6d6c91165",
+        "android_client_info": {
+          "package_name": "com.example.sravani.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6582660902-1ihvh7q2ferq90q4t5lfaqed575gu74r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKL0L4nejuJay1CV4g8MATsA4QyNtfj_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
